@@ -1,0 +1,2 @@
+# Genrog
+generic roguelike
